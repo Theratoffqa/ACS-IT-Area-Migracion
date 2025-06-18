@@ -15,7 +15,7 @@ Este repositorio contiene la versión migrada del sitio ACS a Next.js 13+ usando
   - Página de inicio (`/`) – Estructura del hero, carousel y secciones principales
 - Uso de `use client` y modularización de secciones
 - Implementación de reCAPTCHA para `/contact`
-- 
+  
 ## 🧩 Tecnologías
 Next.js · React · JavaScript · Git · CSS
 
