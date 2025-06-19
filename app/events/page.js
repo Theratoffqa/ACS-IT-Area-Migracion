@@ -52,7 +52,7 @@ export default function EventsPage() {
               <div className="me-4" style={{ maxWidth: '50%' }}>
                 <img
                   alt="ACS on Campus"
-                  src="https://www.acs.org/content/dam/events-hub/830/sanmarcos_db946e3f98.jpg.scale.small.1024.jpg"
+                  src="/assets/img/events01.png"
                   width="100%"
                   style={{ borderRadius: '8px' }}
                 />
